@@ -1,0 +1,27 @@
+.container{
+    margin: 70px;
+    border: 1 solid #bbb9b9;
+    width: 300px;
+    height: 300px;
+    border-radius: 25px;
+    background-color: cadetblue;
+}
+
+.container>.titolo{
+    text-align: center;
+    padding-top: 128px;
+}
+
+.btn{
+    background-color: #5050f3;
+    color: white;
+    padding: 15px;
+    margin-left: 70px;
+    border-radius: 25px;
+}
+
+
+
+.not-visible{
+    display: none;
+}
